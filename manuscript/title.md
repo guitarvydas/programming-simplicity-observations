@@ -1,0 +1,2 @@
+Takeaways
+Observations About Programming Techniques
